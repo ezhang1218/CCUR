@@ -9,7 +9,7 @@ Mouse Protein contains experiments done for Mouse Protein. We follow https://git
 Small Molecule and Pathogen contain experiments run for the corresponding datasets.
 
 ## CFS
-For experiments run using CFS on each dataset, we follow the original paper and its implementation here https://github.com/suinleelab/CFS/blob/master/contrastive_fs/.
+We compare results with CFS in this folder for each data. For corresponding files, we follow the original paper and its implementation which can be found here https://github.com/suinleelab/CFS/blob/master/contrastive_fs/.
 
 
 
