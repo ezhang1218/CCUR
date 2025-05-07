@@ -11,6 +11,9 @@ Small Molecule and Pathogen contain experiments run for the corresponding datase
 ## CFS
 We compare results with CFS in this folder for each data. For corresponding files, we follow the original paper and its implementation which can be found here https://github.com/suinleelab/CFS/blob/master/contrastive_fs/.
 
+## Simulation
+This file contains simulations for both contrastive column and row selection.
+
 
 
 
