@@ -5,7 +5,7 @@ Dimension reduction is an essential tool for analyzing high dimensional data. Mo
 For Small Molecule and Pathogen, we follow data preprocessing and downloading follows https://github.com/suinleelab/contrastiveVI/blob/main/contrastive_vi/. 
 
 ## Files
-main.py contains the CCUR method and relevant functions.
+main.py contains the CCUR method and relevant functions. The following files contains the necessary code the generate each figure in the paper.
 
 ### Mouse Protein
 This file contains experiments done for Mouse Protein. Data_Cortex_Nuclear.csv contains the data. The code used to generate images in Figures 2 and 5 can be found in this file.
