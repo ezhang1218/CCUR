@@ -1,5 +1,5 @@
 ## REBUTTAL ##
-This folder contains a pdf to the responses to each reviewer from the KDD Applied Data Science Track.
+This folder contains a pdf to each of the responses to each reviewer from the KDD Applied Data Science Track.
 
 
 # CCUR
